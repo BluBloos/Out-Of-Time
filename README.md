@@ -2,4 +2,6 @@
 
 A video game that has to do with time.
 
-Project website here -> https://out-of-time.vercel.app/
+Visit my Twitter page for all project updates -> https://twitter.com/NoahCabral1705
+
+Project website here (seldom updated) -> https://out-of-time.vercel.app/
