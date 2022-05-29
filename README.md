@@ -1,4 +1,4 @@
-# Out-Of-Time
+# Chronoswitch
 
 A video game that has to do with time.
 
